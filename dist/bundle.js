@@ -1,0 +1,1 @@
+console.log("In function...."),console.log(["Mumbai","Hyderabad","Delhi"]);
